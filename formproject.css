@@ -1,0 +1,45 @@
+.u-section-1 {
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('images/DALLE2024-05-1609.21.51-Agradientimageforawebsiteapplicationwithanavybluewavetexturetransitioningtolightblue.Thegradientshouldbesmoothandvisuallyappea.webp');
+    background-size: cover;
+    background-position: center;
+    color: #FFF;
+}
+
+.u-sheet-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.u-text-1 {
+    font-weight: 900;
+    font-size: 3.125rem;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+    text-align: center;
+}
+
+.u-input {
+    border-radius: 6px;
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.u-btn-1 {
+    font-weight: 700;
+    font-size: 0.9375rem;
+    box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+    padding: 8px 33px;
+    border: none;
+    color: #fff;
+    background-color: #007BFF;
+    border-radius: 6px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.u-btn-1:hover {
+    background-color: #0056b3;
+}
