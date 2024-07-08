@@ -39,5 +39,5 @@ Beberapa teknologi yang dipakai dalam pembuatan SnapTask, yaitu:
 | :-------------------- | :------------ | :-------------------------------- |
 | Zaima Firoos Likan    | G6401221002   | https://github.com/firooslikan    |
 | Rusydi Balfas | G6401221104   | https://github.com/        |
-| M. Firza Gyandra Sukma | G6401221122   | https://github.com/parkchaejoy        |
-| Rizky Rasyid Wirakusuma  | G6401221127   | https://github.com/     |
+| M. Firza Gyandra Sukma | G6401221122   | https://github.com/        |
+| Rizky Rasyid Wirakusuma  | G6401221127   | https://github.com/parkchaejoy     |
